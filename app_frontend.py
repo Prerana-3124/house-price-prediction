@@ -40,3 +40,4 @@ if st.button("Predict Price"):
         st.success(f"🏡 Estimated Price: {price}")
     else:
         st.error("Error fetching prediction.")
+
